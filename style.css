@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  color: #555;
+}
+.container {
+  width: 500px;
+  margin: auto;
+}
+h1 {
+  font-size: 40px;
+}
